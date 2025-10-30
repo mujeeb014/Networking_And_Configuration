@@ -17,8 +17,7 @@ Design a basic network topology demonstrating understanding of the **Core, Distr
 ## 🔍 Summary
 This topology demonstrates how to:
 - Categorize devices into Core, Distribution, and Access layers  
-- Assign IP addresses to each network segment  
-- Verify connectivity using the Command Prompt in Packet Tracer  
+  
 
 ## 📚 Author
 **Mujeeb Ur Rahman**
