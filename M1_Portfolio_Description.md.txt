@@ -1,0 +1,50 @@
+# Module 1 – Hierarchical Network Topology
+
+**Course:** Networking Devices & Initial Configuration  
+**Institution:** Cisco Networking Academy  
+**Designed by:** Mujeeb Ur Rahman  
+**Date:** October 2025  
+
+---
+
+## 📘 Overview
+This project demonstrates a **three-tier hierarchical network topology** consisting of Core, Distribution, and Access layers.
+
+The design follows Cisco’s recommended model for scalable and manageable enterprise networks.
+
+---
+
+## 🧩 Network Layers
+
+### 🔴 Core Layer
+- **Device:** R1_Core  
+- **Function:** Routes and manages traffic between networks.
+
+### 🟡 Distribution Layer
+- **Devices:** S1_Dist, S2_Dist  
+- **Function:** Aggregates Access Layer and enforces network policies.
+
+### 🟢 Access Layer
+- **Devices:** PCs, Laptops, Wireless Access Points  
+- **Function:** Provides network access to end users.
+
+---
+
+## 🧰 File Information
+| File | Description |
+|------|--------------|
+| `M1_Topology_Labeled_Portfolio.pkt` | Final Packet Tracer topology |
+| `M1_Portfolio_Final_View.png` | Screenshot for portfolio presentation |
+| `M1_Portfolio_Description.md` | Documentation file |
+
+---
+
+## 🧠 Learning Outcome
+This module demonstrates understanding of:
+- Hierarchical network design
+- Device roles and interconnections
+- Layered network architecture principles
+
+---
+
+© 2025 Mujeeb Ur Rahman. All rights reserved.
